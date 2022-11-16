@@ -2,6 +2,6 @@
 init para ambientação ao git
 
 
-Cá vai a situação atual. Novos metadados carregados. ye.
+Cá vai a situação atual.
 
-estão em curso os do s nimar
+
